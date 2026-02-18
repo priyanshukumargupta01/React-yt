@@ -11,8 +11,7 @@ html,body{
 }
 .parent{
   padding: 20px;
-  display: flex;
-  flex-wrap: wrap;
+  display: flex;flex-direction: row;
 }
 .card{ 
   width: 300px;
