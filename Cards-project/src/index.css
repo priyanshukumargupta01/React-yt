@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+html,body{
+  height: 100%;
+  width: 100%; 
+}
+.parent{
+  height: 100vh;
+  width: 100vw;
+  background-color: #111;
+}
+.card{
+  height: 400px;
+  width: 300px;
+  background-color: #333;
+  border-radius: 15px;
+  padding : 20px;
+}
