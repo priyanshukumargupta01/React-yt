@@ -11,8 +11,9 @@ html,body{
   background-color: #222; 
 }
 .parent{ 
-  width: 100%;
+  min-height: 100vh;
   display: flex;
+  flex-wrap: wrap;
   padding : 20px;
   gap: 20px;
 }
