@@ -5,7 +5,7 @@ const App = () => {
 
 const jobOpenings = [
   {
-    brandLogo: "https://logo.clearbit.com/google.com",
+    brandLogo: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7",
     companyName: "Google",
     datePosted: "5 days ago",
     post: "Frontend Developer",
@@ -118,3 +118,8 @@ const jobOpenings = [
 };
 
 export default App;
+
+
+
+
+
